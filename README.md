@@ -5,7 +5,7 @@ There is a film rental store that provides DVDs on a rental basis. Lets assume t
 He also has one helper who understands computers well and as a part-time job, he manages the software and helps the owner by providing different types of reports using SQL queries.
 Today, unfortunately, this helper is not available. So your friend has called you to help him with some of the reports that he needs to make important business decisions.
 
-Schema Information:
+**Schema Information:**
 
 Before you can help your friend it is very important for you to understand the schema. This schema contains a number of tables that relate to the various aspects of this store, such as the films available for rent, the customers who rent them, and the staff who manage the store and the rental process.
 The tables in the database are interrelated, which allows them to run complex queries for data analysis.
